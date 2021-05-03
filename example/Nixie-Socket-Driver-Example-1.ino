@@ -4,11 +4,11 @@
 // Driving Nixie Sockets Example #1
 //
 // This example demonstrates how to control up to 6 nixie sockets.
-// The control is carried out using up to six Nixie Tube Drivers in serial connection.
+// The control is carried out using up to six Nixie Socket Drivers in serial connection.
 
-#define DIN_PIN   A0          // Nixie socket driver (shift register) serial data input pin             
-#define CLK_PIN   A2          // Nixie socket driver clock input pin
-#define EN_PIN    A1          // Nixie socket driver enable input pin
+#define DIN_PIN   7          // Nixie socket driver (shift register) serial data input pin             
+#define CLK_PIN   8          // Nixie socket driver clock input pin
+#define EN_PIN    9          // Nixie socket driver enable input pin
 
 // Bit notation of 15-segment tube symbols                                  
 uint16_t symbol_nixie_tube[]={
