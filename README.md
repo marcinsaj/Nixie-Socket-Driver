@@ -14,4 +14,5 @@ Project website: https://nixietester.com/project/nixie-socket-driver/
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-pinout-desc.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-SOCKET-CHANGE.gif"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-Dimensions-Diagram.jpg"></p>
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-Schematic.png"></p>
 
