@@ -4,6 +4,8 @@
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-How-to-Connect-6-Drivers-Example-1.pdf">How to Connect 6 Drivers - Example 1</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-How-to-Connect-6-Drivers-Example-2.pdf">How to Connect 6 Drivers - Example 2</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-How-to-Connect-Multiple-Power-Supply-Modules.pdf">How to Connect Optional Multiple Power Supply Modules - Example</a>
+* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-Dimensions.pdf">Nixie Socket Driver - Dimensions</a>
+
 
 
 
@@ -15,4 +17,5 @@ Project website: https://nixietester.com/project/nixie-socket-driver/
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-SOCKET-CHANGE.gif"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-Dimensions-Diagram.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-Schematic.png"></p>
+
 
