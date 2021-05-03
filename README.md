@@ -7,11 +7,11 @@
 
 
 
-Nixie Tube Driver V2 - Easy to use - only 3 control lines. Multiple drivers can be connected in series. 22 high-voltage outputs for nixie cathodes. Compatible with 5V and 3.3V (IO &amp; VCC). Example code available for Arduino. Prepared libraries for use in your own projects - Eagle, Altium, KiCad and EasyEDA. It can successfully replace older drivers. https://www.NixieTester.com
+Project website: https://nixietester.com/project/nixie-socket-driver/
 
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-Arduino-Code.gif"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-DIAGRAM.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-pinout-desc.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-SOCKET-CHANGE.gif"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-Dimensions-Diagram.jpg"></p>
-<p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-Arduino-Code.gif"></p>
 
