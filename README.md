@@ -1,4 +1,6 @@
 # Nixie-Socket-Driver
+Project website: https://nixietester.com/project/nixie-socket-driver/
+
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-Schematic.pdf">Schematic</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-Assembly-Requirements.pdf">Assembly Requirements</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/datasheet/Nixie-Socket-Driver-How-to-Connect-6-Drivers-Example-1.pdf">How to Connect 6 Drivers - Example 1</a>
@@ -11,8 +13,6 @@
 
 
 
-
-Project website: https://nixietester.com/project/nixie-socket-driver/
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-Arduino-Code.gif"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Socket-Driver/blob/main/extras/Nixie-Socket-Driver-DIAGRAM.jpg"></p>
